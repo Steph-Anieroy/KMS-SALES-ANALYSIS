@@ -32,6 +32,8 @@ This project focuses on analysing sales amd customer data from 2009 to 2012 and 
 
 
 ## KEY INSIGHTS
+
+
 * **Technology products** have the highest average revenue per order — consider upselling strategies.
 * Shipping cost was spent based on order priority as estimated shipping cost was was rated with the order count, Regular air acccrued the most cost.
 * Customers that returned items where from the corporate, small business and home office segment.
@@ -41,3 +43,11 @@ This project focuses on analysing sales amd customer data from 2009 to 2012 and 
 
 ## QUERY AND VISUALS
 
+
+--QUESTION 1--------TOP SELLING CATEGORY---------
+```SQL
+  SELECT PRODUCT_CATEGORY, SUM(SALES) AS TOTALSALES
+FROM [KMS DATA]
+GROUP BY PRODUCT_CATEGORY
+ORDER BY TOTALSALES DESC;
+````
