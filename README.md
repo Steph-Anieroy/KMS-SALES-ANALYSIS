@@ -223,6 +223,24 @@ WHERE [STATUS] = 'RETURNED'
 ![CUSTOMERTHATRETURNEDITEMS](https://github.com/user-attachments/assets/a727ffdf-c900-4f6f-b632-e70352cd7c0f)
 
 
+#### 
+`````SQL
+SELECT 
+    ORDER_PRIORITY,
+    SHIP_MODE,
+    COUNT (*) ORDER_ID,
+    AVG(SHIPPING_COST) AS AVERAGE_SHIPPING_COST
+FROM 
+    [KMS DATA]
+GROUP BY 
+    ORDER_PRIORITY, SHIP_MODE
+ORDER BY 
+    ORDER_ID DESC;
+`````
+
+
+
+
 
 
 
