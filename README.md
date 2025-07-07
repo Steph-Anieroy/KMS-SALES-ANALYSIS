@@ -167,8 +167,6 @@ ORDER BY ORDER_QUANTITY DESC
 ````
 
 
-![MOST VALUABEL CUSTOMERS](https://github.com/user-attachments/assets/067257b1-283d-4bf3-9469-8c5c25269f12)
-
 #### SMALL BUSINESS CUSTOMER WITH HIGHEST SALES
 
 ````SQL
@@ -179,6 +177,6 @@ WHERE CUSTOMER_SEGMENT = 'Small Business'
 ORDER BY SALES DESC
 ````
 
-
+![MOST VALUABEL CUSTOMERS](https://github.com/user-attachments/assets/067257b1-283d-4bf3-9469-8c5c25269f12)
 
 
