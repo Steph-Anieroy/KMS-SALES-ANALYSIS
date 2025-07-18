@@ -223,7 +223,7 @@ WHERE [STATUS] = 'RETURNED'
 ![CUSTOMERTHATRETURNEDITEMS](https://github.com/user-attachments/assets/a727ffdf-c900-4f6f-b632-e70352cd7c0f)
 
 
-#### 
+#### SHIPPPING COST BASED ON ORDER PRIORITY
 `````SQL
 SELECT 
     ORDER_PRIORITY,
@@ -237,6 +237,7 @@ GROUP BY
 ORDER BY 
     ORDER_ID DESC;
 `````
+
 
 
 
