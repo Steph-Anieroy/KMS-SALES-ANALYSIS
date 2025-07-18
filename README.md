@@ -3,15 +3,15 @@
 
 ## FEATURES
 
-[project_overview](#project_overview)
+[PROJECT_OVERVIEW](#PROJECT_OVERVIEW)
 
-[objective](#objective)
+[OBJECTIVE](#OBJECTIVE)
 
-[tools_used](#tools_used)
+[TOOLS_USED](#TOOLS_USED)
 
-[key_insights](#key_insights)
+[KEY_INSIGHTS](#KEY_INSIGHTS)
 
-[query_and_visuals](#query_and_visuals)
+[QUERY_AND_VISUALS](#QUERY_AND_VISUALS)
 
 
 
