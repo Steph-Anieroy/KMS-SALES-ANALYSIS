@@ -1,5 +1,21 @@
 # KULTRA_MEGA-STORES-INVENTORY-ANALYSIS
 
+
+## FEATURES
+
+[project_overview](#project_overview)
+
+[objective](#objective)
+
+[tools_used](#tools_used)
+
+[key_insights](#key_insights)
+
+[query_and_visuals](#query_and_visuals)
+
+
+
+
 ## PROJECT OVERVIEW
 
 This project focuses on analysing sales amd customer data from 2009 to 2012 and presenting key insights and findings.
