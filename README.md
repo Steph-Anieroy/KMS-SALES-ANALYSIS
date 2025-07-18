@@ -242,7 +242,7 @@ ORDER BY
 <img width="468" height="309" alt="SHIPPING COST BASED ON ORDER PRIORITY" src="https://github.com/user-attachments/assets/aca937f5-0722-4432-af25-7724daeccd13" />
 
 
-
-
+## LICENCE
+MIT - For educational purpose.
 
 
